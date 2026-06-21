@@ -4,7 +4,7 @@
 Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthusiast
 
 </div>
----
+
 
 ## 👩‍💻 About Me
 I am a passionate Computer Science & Engineering (AI & ML) student with a strong interest in building intelligent, user-centric, and scalable applications. I enjoy solving real-world problems through Machine Learning, Full-Stack Development while continuously exploring modern technologies and development practices.
@@ -101,7 +101,18 @@ I am a passionate Computer Science & Engineering (AI & ML) student with a strong
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajal-kupale&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-kupale&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal-kupale&theme=tokyo-night" />
+</p>
 
 
 
