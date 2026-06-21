@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Hi there 👋, I'm Kajal Kupale
+  ## Hi 👋, I'm Kajal Kupale
 Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthusiast
 
 </div>
