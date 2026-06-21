@@ -6,16 +6,17 @@ Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthus
 </div>
 
 
+
 ## 👩‍💻 About Me
 I am a passionate Computer Science & Engineering (AI & ML) student with a strong interest in building intelligent, user-centric, and scalable applications. I enjoy solving real-world problems through Machine Learning, Full-Stack Development while continuously exploring modern technologies and development practices.
 
-🔹 Strong foundation in Python, Flask, SQL, HTML, CSS, Bootstrap & Tailwind CSS 
+  Skilled in Python, Flask, SQL, HTML, CSS, Bootstrap, and Tailwind CSS
 
-🔹 Experience developing AI-powered applications, Full-Stack projects, and intelligent automation systems through academic projects
+🔹 Built AI-powered applications and Full-Stack projects
 
-🔹 Worked with OpenCV, MediaPipe, Scikit-Learn, Streamlit, Pandas, NumPy, Git & GitHub 
+🔹 Experienced with OpenCV, MediaPipe, Scikit-Learn, Streamlit, Pandas, NumPy, Git, and GitHub
 
-🔹 Interested in Artificial Intelligence, Full-Stack Development, and Data-Driven Systems
+🔹 Passionate about AI, Full-Stack Development, and Data Analytics
 
 🎯 Career Goal: To become a skilled Software Engineer and AI Developer by building innovative, scalable, and intelligent solutions that create real-world impact.
 
@@ -101,18 +102,7 @@ I am a passionate Computer Science & Engineering (AI & ML) student with a strong
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajal-kupale&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-kupale&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal-kupale&theme=tokyo-night" />
-</p>
 
 
 
