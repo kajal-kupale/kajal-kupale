@@ -5,12 +5,12 @@ Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthus
 
 </div>
 
----
 
+---
 ## 👩‍💻 About Me
 I am a passionate Computer Science & Engineering (AI & ML) student with a strong interest in building intelligent, user-centric, and scalable applications. I enjoy solving real-world problems through Machine Learning, Full-Stack Development while continuously exploring modern technologies and development practices.
 
-  Skilled in Python, Flask, SQL, HTML, CSS, Bootstrap, and Tailwind CSS
+🔹 Skilled in Python, Flask, SQL, HTML, CSS, Bootstrap, and Tailwind CSS
 
 🔹 Built AI-powered applications and Full-Stack projects
 
