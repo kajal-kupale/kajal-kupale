@@ -1,15 +1,20 @@
-                  ## Hi there 👋, I'm Kajal Kupale
-        Aspiring Python Full Stack Developer | Python |Web Development | AI & ML Enthusiast
-
+<div align="center">
+  ## Hi there 👋, I'm Kajal Kupale
+Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthusiast
+</div>
 ---
 
 ## 👩‍💻 About Me
 I am a passionate Computer Science & Engineering (AI & ML) student with a strong interest in building intelligent, user-centric, and scalable applications. I enjoy solving real-world problems through Machine Learning, Full-Stack Development while continuously exploring modern technologies and development practices.
 
 🔹 Strong foundation in Python, Flask, SQL, HTML, CSS, Bootstrap & Tailwind CSS 
+
 🔹 Experience developing AI-powered applications, Full-Stack projects, and intelligent automation systems through academic projects
+
 🔹 Worked with OpenCV, MediaPipe, Scikit-Learn, Streamlit, Pandas, NumPy, Git & GitHub 
+
 🔹 Interested in Artificial Intelligence, Full-Stack Development, and Data-Driven Systems
+
 🎯 Career Goal: To become a skilled Software Engineer and AI Developer by building innovative, scalable, and intelligent solutions that create real-world impact.
 
 
@@ -55,6 +60,23 @@ I am a passionate Computer Science & Engineering (AI & ML) student with a strong
 ![Google Colab](https://img.shields.io/badge/GOOGLE_COLAB-CLOUD_NOTEBOOK-F9AB00) 
 
 ---
+
+## 📊 Developer Activity & Engineering Metrics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kajal-kupale&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-kupale&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal-kupale&theme=tokyo-night" />
+</p>
+
+
 
 
 
