@@ -1,6 +1,8 @@
 <div align="center">
+  
   ## Hi there 👋, I'm Kajal Kupale
 Aspiring Python Full Stack Developer | Python | Web Development | AI & ML Enthusiast
+
 </div>
 ---
 
@@ -85,21 +87,19 @@ I am a passionate Computer Science & Engineering (AI & ML) student with a strong
 
 ---
 
-## 📊 Developer Activity & Engineering Metrics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kajal-kupale&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-kupale&layout=compact&theme=tokyonight" />
-</p>
+## 📊 Developer Activity & Engineering Metrics 
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajal-kupale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-kupale&layout=compact&theme=tokyonight&hide_border=true" /> 
+</p> 
 
 ---
 
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal-kupale&theme=tokyo-night" />
+## 🔥 Contribution Activity 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal-kupale&theme=tokyo-night&hide_border=true" /> 
 </p>
 
+
+---
 
 
 
